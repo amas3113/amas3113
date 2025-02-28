@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew Maslankowski
+- 👋 Hi, I’m Andrew Maslankowski.
 - 🌱 I recieved my Bachelor's degree in computer engineering at the University of Illinois Urbana-Champaign in 2022.
 - 📫 You can reach me at: andrew.maslankowski@gmail.com
 
